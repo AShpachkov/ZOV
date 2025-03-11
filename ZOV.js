@@ -17,6 +17,6 @@ const RRchat = {
             _onChatMessage.call(this, text, color);
         };
 
-        interface("Hud")?.$refs?.chat?.add("Счетчик /z", "65c466");
+        interface("Hud")?.$refs?.chat?.add("Кичиро даун", "65c466");
     }
 };
